@@ -50,3 +50,8 @@ h1 {
     border: none;
     cursor: pointer;
 }
+.due-date {
+    margin-left: 10px; /* Space between task text and due date */
+    font-size: smaller;
+    color: #777; /* A lighter gray color */
+}
